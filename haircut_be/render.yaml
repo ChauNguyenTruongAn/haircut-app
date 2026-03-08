@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: haircut-booking
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /actuator/health
+    envVars:
+      - key: SPRING_DATASOURCE_URL
+        fromDatabase:
+          name: haircut-db
+          property: connectionString
+      - key: SPRING_DATASOURCE_USERNAME
+        fromDatabase:
+          name: haircut-db
+          property: username
+      - key: SPRING_DATASOURCE_PASSWORD
+        fromDatabase:
+          name: haircut-db
+          property: password
+      - key: SPRING_JPA_HIBERNATE_DDL_AUTO
+        value: update
+      - key: SPRING_PROFILES_ACTIVE
+        value: production
+
+databases:
+  - name: haircut-db
+    plan: free
+    databaseName: haircut
+    user: haircut

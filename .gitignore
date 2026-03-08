@@ -1,0 +1,82 @@
+[PTUDDD]cuoiKy.docx
+Book1.xlsx
+Project_progress.txt
+
+# ======================
+
+# OS
+
+# ======================
+
+.DS_Store
+Thumbs.db
+
+# ======================
+
+# IDE
+
+# ======================
+
+.vscode/
+.idea/
+*.iml
+
+# ======================
+
+# SPRING BOOT / MAVEN
+
+# ======================
+
+haircut_be/target/
+*.log
+*.class
+
+haircut_be/src/main/resources/*.properties
+haircut_be/src/main/resources/static/json-key-dialogflow.json
+
+# ======================
+
+# FLUTTER
+
+# ======================
+
+haircut_app/.dart_tool/
+haircut_app/.packages
+haircut_app/build/
+haircut_app/.flutter-plugins
+haircut_app/.flutter-plugins-dependencies
+
+# Flutter generated
+
+haircut_app/pubspec.lock
+
+# ======================
+
+# ANDROID
+
+# ======================
+
+haircut_app/android/.gradle/
+haircut_app/android/local.properties
+haircut_app/android/app/debug
+haircut_app/android/app/profile
+haircut_app/android/app/release
+
+# ======================
+
+# IOS
+
+# ======================
+
+haircut_app/ios/Pods/
+haircut_app/ios/.symlinks/
+haircut_app/ios/Flutter/.last_build_id
+
+# ======================
+
+# TEMP
+
+# ======================
+
+*.tmp
+*.swp
