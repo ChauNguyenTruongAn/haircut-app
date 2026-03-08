@@ -176,3 +176,19 @@ Ngrok được sử dụng trong quá trình phát triển để expose local se
 
 ## Cách cài đặt Dialogflow
 [Hướng dẫn cài đặt](https://github.com/ChauNguyenTruongAn/haircut-app/blob/main/haircut_be/DIALOGFLOW_SETUP.md)
+
+## Hình ảnh sản phẩm
+<img width="417" height="770" alt="image" src="https://github.com/user-attachments/assets/708438ce-c52b-4951-b605-48ac4047f895" />
+<img width="417" height="770" alt="image" src="https://github.com/user-attachments/assets/fe43074a-473a-43f2-b163-8756ace7a820" />
+<img width="417" height="770" alt="image" src="https://github.com/user-attachments/assets/3e04f257-c612-425a-a486-26522d66bf5f" />
+<img width="417" height="770" alt="image" src="https://github.com/user-attachments/assets/d9d1f99f-27bf-4ddc-8fdb-9a978e9a4b98" />
+<img width="417" height="770" alt="image" src="https://github.com/user-attachments/assets/fdfc20c8-6b43-4919-ad56-996c897ea8d6" />
+<img width="1036" height="770" alt="image" src="https://github.com/user-attachments/assets/79fb59bc-e67b-4739-90e3-1d819e2c970a" />
+<img width="1036" height="770" alt="image" src="https://github.com/user-attachments/assets/96d5b692-fc07-460e-a3a2-5e9117c8353d" />
+
+
+
+
+
+
+
